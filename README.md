@@ -1,6 +1,6 @@
 # vue3-ts-test-tree
 
-This template should help get you started developing with Vue 3 in Vite.
+Компонент древовидной структуры на Vue 3 (Composition API) и TypeScript
 
 ## Recommended IDE Setup
 
